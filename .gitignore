@@ -1,5 +1,2 @@
-/*.log
-node_modules
-/.Trash-1000/
-.DS_Store
-Thumbs.db
+/node_modules/*
+!/node_modules/space-pen
